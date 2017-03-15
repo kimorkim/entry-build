@@ -1,0 +1,4 @@
+[submodule "entry-offline"]
+	path = entry-offline
+	url = https://github.com/entrylabs/entry-offline.git
+	branch = new/v1.5.0
